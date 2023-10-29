@@ -6,9 +6,9 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'netdev-tyj'
-copyright = '2023, tianyujia'
-author = 'tianyujia'
+project = 'Tian Yujia's Tech Notes'
+copyright = '2023, Tian Yujia'
+author = 'Tian Yujia'
 release = '1.0'
 
 # -- General configuration ---------------------------------------------------
