@@ -36,6 +36,13 @@ DPDK
 * :ref:`modindex`
 * :ref:`search`
 
+.. toctree::
+   :maxdepth: 2
+   :caption: Ansible getting started
+
+   getting_started/index
+   getting_started_ee/index
+
 OvS
 ==================
 
@@ -43,14 +50,13 @@ OvS
 * :ref:`modindex`
 * :ref:`search`
 
-Installing Ansible on Fedora Linux
-----------------------------------
+.. toctree::
+   :maxdepth: 2
+   :caption: Ansible getting started
 
-Installing Ansible on Fedora Linux
-----------------------------------
+   getting_started/index
+   getting_started_ee/index
 
-Installing Ansible on Fedora Linux
-----------------------------------
 
 
 VPP
