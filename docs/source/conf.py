@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'Tian Yujia's Tech Notes'
+project = "Tian Yujia's Tech Notes"
 copyright = '2023, Tian Yujia'
 author = 'Tian Yujia'
 release = '1.0'
