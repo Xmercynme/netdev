@@ -9,13 +9,14 @@ Welcome to Tian Yujia's Tech Notes!
 Welcome message...
 
 .. note::
-Note
+   Note to be edited in future.
 
 Table of Contents
 -----------------
 
 .. toctree::
    :maxdepth: 2
+
    dpdk_revision_notes/index
 
 
