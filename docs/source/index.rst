@@ -16,6 +16,6 @@ Table of Contents
 
 .. toctree::
    :maxdepth: 2
-   getting_started/index
-   getting_started_ee/index
+   dpdk_revision_notes/index
+
 
